@@ -11,7 +11,7 @@ I made along the way.
 | Level | Pattern                         | Problems | Done |
 |-------|---------------------------------|----------|------|
 | 1     | Fast & slow pointers            | 4        | 4    |
-| 2     | Two pointers from both ends     | 6        | 4    |
+| 2     | Two pointers from both ends     | 6        | 6    |
 | 3     | Fixed sliding window            | 3        | 0    |
 | 4     | Variable sliding window         | 5        | 0    |
 | 5     | Binary search                   | 5        | 0    |
